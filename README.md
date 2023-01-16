@@ -1,8 +1,7 @@
-# P10  
+# P10 : Projet de mise en oeuvre d'un chatbot  
 <img src="/img/boti.png" width="150"> <img src="/img/luis.png" width="150"> <img src="/img/bot.png" width="150">  <img src="/img/appins.png" width="150">    
- 
-**Projet de mise en oeuvre d'un chatbot**  
-  
+
+## Enjeu 
 L'enjeu consiste à développer un support à la réservation d'un billet d'avion sous forme de CHATBOT  
 * le chatbot du framework microsoft bot framework sdk v4  
 * LUIS d'azure pour réaliser une analyse sémantique et identifier les variables nécéssaires
