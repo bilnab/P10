@@ -14,8 +14,8 @@ L'enjeu consiste à développer un support à la réservation d'un billet d'avio
 
 
 ## Script  
-[notebook du modèle LUIS](/P10%20scripts%20LUIS.ipynb)  
-[repo de l'application chatbot]()
+[notebook commenté du modèle LUIS](/P10%20scripts%20LUIS.ipynb)  
+[repo de l'application chatbot](/P10%20app)
   
 ## Présentation PDF:  
 [pdf complet](/P10.pdf)  
