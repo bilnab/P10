@@ -18,5 +18,5 @@ L'enjeu consiste à développer un support à la réservation d'un billet d'avio
 [repo de l'application chatbot]()
   
 ## Présentation PDF:  
-[pdf complet](/P10.pdf)
+[pdf complet](/P10.pdf)  
 <img src="/img/P10%20pres.png" height="300"> 
